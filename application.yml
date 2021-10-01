@@ -1,0 +1,17 @@
+{
+		"name":"config-server",
+		"profiles":[
+				"default"
+		],
+		"label":null,
+		"version":""
+		"state":null,
+		"propertySources":[
+		{
+		"name":"",
+		"source":{
+		"welcome":"Config File Cloud"
+			}
+		}
+	]
+}
