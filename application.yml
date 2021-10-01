@@ -7,7 +7,7 @@
 "state":null,
 "propertySources":[
 {
-"name":"https://github.com/MicroServiceMPH/Cloud_File_Config_Server/blob/master/config-server.yml",
+"name":"https://github.com/microserviceforsubmit/cloud-config-file/blob/main/application.yml",
 "source":{
 	"welcome":"WELLCOME"
 }
