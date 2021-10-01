@@ -1,17 +1,16 @@
 {
-		"name":"config-server",
-		"profiles":[
-				"default"
-		],
-		"label":null,
-		"version":""
-		"state":null,
-		"propertySources":[
-		{
-		"name":"https://github.com/microserviceforsubmit/cloud-config-file/blob/main/application.yml",
-		"source":{
-		"welcome":"Config File Cloud"
-			}
-		}
-	]
+
+"name":"config-server",
+"profiles":["default"],
+"label":null,
+"version":""
+"state":null,
+"propertySources":[
+{
+"name":"https://github.com/MicroServiceMPH/Cloud_File_Config_Server/blob/master/config-server.yml",
+"source":{
+	"welcome":"WELLCOME"
+}
+}
+]
 }
