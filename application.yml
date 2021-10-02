@@ -1,15 +1,15 @@
 {
-	"name": "application",
-	"profiles": ["default"],
-	"label": null,
-	"version": "",
-	"state": null,
-	"propertySources": [
-	{
-		"name": "https://github.com/LenNguyenVan13/cloud-config-file/blob/main/application.yml",
-		"source": {
-			"welcome": "WELLCOME"
-		}
-	}
+"name": "application",
+"profiles": ["default"],
+"label": null,
+"version": "",
+"state": null,
+"propertySources": [
+{
+"name": "https://github.com/LenNguyenVan13/cloud-config-file/blob/main/application.yml",
+"source": {
+"welcome": "WELLCOME"
+}
+}
 ]
 }
