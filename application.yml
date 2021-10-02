@@ -3,7 +3,7 @@
 "name":"application",
 "profiles":["default"],
 "label":null,
-"version":""
+"version":"",
 "state":null,
 "propertySources":[
 {
