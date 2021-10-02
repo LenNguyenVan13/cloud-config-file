@@ -1,6 +1,6 @@
 {
 
-"name":"config-server",
+"name":"application",
 "profiles":["default"],
 "label":null,
 "version":""
