@@ -8,7 +8,8 @@
 {
 "name": "https://github.com/microserviceforsubmit/cloud-config-file/blob/main/application.yml",
 "source": {
-"welcome": "WELLCOME"
+"welcome": "WELLCOME",
+"lm":"dau nao ya"
 }
 }
 ]
